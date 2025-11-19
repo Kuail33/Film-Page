@@ -28,58 +28,9 @@ It’s purely a **learning project** to understand React fundamentals.
 ---
 
 ## 🚀 How to Run the Project
-
-### 1. Install dependencies
-```bash
-npm install
-2. Start the development server
-bash
-Copy code
-npm run dev
-(or npm start if using Create React App)
-
-3. Open the app in your browser
-arduino
-Copy code
-http://localhost:5173
-(or whatever URL your terminal shows)
-
-📚 What I Learned
-How to create and reuse components
-
-Passing data using props
-
-Rendering lists with .map()
-
-Styling components
-
-Understanding React's UI update cycle
-
-JavaScript (ES6+)
-
-HTML / JSX
-
-CSS (or Tailwind/other depending on your setup)
-
-Vite / Create React App (whichever you used)
-
-Project Structure (example)
-src/
-  components/
-    MovieCard.jsx
-    MovieList.jsx
-  App.jsx
-  index.jsx
-  styles.css
-
-How to Run the Project
 1. Install dependencies
 npm install
 
 2. Start development server
 npm run dev
 
-
-Visit:
-
-http://localhost:5173
